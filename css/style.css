@@ -1,0 +1,28 @@
+body {
+    background-color: #eee;
+    color: #000000;
+}
+
+.row {
+    justify-content: space-between;
+}
+
+.left,
+.footer {
+    background-color: #bd1857;
+}
+
+.img-thumbnail {
+    width: 50%;
+    height: 50%;
+    border-radius: 50%;
+}
+
+.text-white,
+a {
+    color: white;
+}
+
+h4 {
+    color: #bd1857;
+}
